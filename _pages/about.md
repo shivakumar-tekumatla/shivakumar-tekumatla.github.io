@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a current maters student in Robotics Engineering at [Worcester Polytechnic Institute](https://www.wpi.edu/) and currently working on learning based controllers design for under actuated robots using Optimal Control and Reinforcement Learning.I graduated with a B.Tech degree in Mechanical Engineering, Design and Manufacturing from  [Indian Institute of Information Technology, Design and Manufacturing](https://iiitdm.ac.in). I have 4 years of industrial automation experience from my work at [Saint-Gobain India ](https://www.saint-gobain.co.in/). As part of this work, I designed multiple smart manufacturing systems like Digital Twin,Forklift Localization, Predictive Maintenance using AI ,OEE, Warehouse Management, and Data analytics platform for Industrial Energy Management by incorporating [Industry 4.0](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution). I am currently working as Robotics Engineer at [Vantage Robotics](https://vantagerobotics.com/). I work on incorporating autonomous flying for their new upcoming drone. Over the years , I have been an engineer, manager , and a teacher. 
 
 A data-driven personal website
 ======

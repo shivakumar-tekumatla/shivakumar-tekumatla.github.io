@@ -8,7 +8,8 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I design curriculum for a course named Digital Manufacturing and taught it for two semesters. This course is currently used by [Saint-Gobain India]() to recruit digital manufacturing engineers. T
+
 
 Heading 1
 ======

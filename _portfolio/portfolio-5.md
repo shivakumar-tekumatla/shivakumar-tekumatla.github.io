@@ -30,7 +30,7 @@ Random Sampling:
 
 Uniform Sampling:
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/uniform_path.png?raw=true' width =400  />
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/unifrom_path.png?raw=true' width =400  />
 
 
 

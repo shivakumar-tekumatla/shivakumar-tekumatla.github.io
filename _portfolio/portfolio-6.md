@@ -9,6 +9,7 @@ In this work, I presented the simplified version of Probability of Boundary (pb 
 different methods such as ResNet, ResNeXt and DenseNet to improve the classification accuracy
 
 PB Lite :
+
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PbLite_3.png?raw=true' width =400  />
 
 

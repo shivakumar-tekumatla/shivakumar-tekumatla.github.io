@@ -1,6 +1,7 @@
 ---
 title: "AutoCalib"
-excerpt: "Design of PB lIte for boundary detection"
+excerpt: "Design of PB lIte for boundary detection
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/autocalib.jpg?raw=true' width =400  />"
 collection: portfolio
 ---
 

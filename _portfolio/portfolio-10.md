@@ -1,7 +1,7 @@
 ---
 title: "Face Swap"
 excerpt: "Swapping faces in the images using Thin Plate Spline method and Triangulation Methods
-
+\
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/faceswap3.png?raw=true' width =400  />"
 collection: portfolio
 ---

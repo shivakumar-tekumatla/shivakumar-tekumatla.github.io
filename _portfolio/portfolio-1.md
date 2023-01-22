@@ -1,6 +1,6 @@
 ---
 title: "Nonlinear Model Predictive Control for Mobile Robots"
-excerpt: "NMPC  algorithm for collision-free navigation of a mobile robot in unknown and dynamic environments.<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/NMPC3.gif?raw=true' width =500  />"
+excerpt: "NMPC  algorithm for collision-free navigation of a mobile robot in unknown and dynamic environments.<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/NMPC3.gif?raw=true' width =400  />"
 collection: portfolio
 ---
 
@@ -11,8 +11,13 @@ and non-holonomic robots. NMPC , a variation of MPC, that is used here , does no
 
 # Results 
 <!-- <img src="https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/NMPC1.gif" alt="gif" >  -->
+Without Boundary:
+
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/NMPC1.gif?raw=true' />
 
+With Boundary:
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/NMPC2.gif?raw=true' />
 
-Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/NMPC.pdf). 
+[Git Hub](https://github.com/shivakumar-tekumatla/NMPC-and-VO-for-Mobile-Robot) 
+
+Report for this project can be [downloaded from here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/NMPC.pdf). 

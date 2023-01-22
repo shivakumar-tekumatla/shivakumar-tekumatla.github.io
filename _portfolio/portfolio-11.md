@@ -1,6 +1,6 @@
 ---
 title: "Structure From Motion"
-excerpt: "Mapping 3D scene using camera motion , Linear PnP and Bundle Adjustment"
+excerpt: "Mapping 3D scene using camera motion , Linear PnP and Bundle Adjustment
 \
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/sfm.png?raw=true' width =400  />"
 collection: portfolio

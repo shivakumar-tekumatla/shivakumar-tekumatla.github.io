@@ -2,7 +2,7 @@
 title: "Motion Planning for Mobile Robots using Sampling based algorithms"
 excerpt: "Navigating Mobile robots using various sampling based algorithms such as Probabilistic Road Map,RRT and RRT*
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/random_path.png?raw=true' width =500  />"
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/random_path.png?raw=true' width =600  />"
 collection: portfolio
 ---
 

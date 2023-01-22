@@ -1,6 +1,6 @@
 ---
 title: "Alohomora"
-excerpt: "Design of PB lIte for boundary detection
+excerpt: "simplified version of Probability of Boundary (pb lite) detection algorithm, and  Convectional Neural Network(CNN) algorithm for Image classification
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/ColorMap_3.png?raw=true' width =400  />"
 collection: portfolio
 ---
@@ -12,6 +12,7 @@ PB Lite :
 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PbLite_3.png?raw=true' width =400  />
 
+[Git Hub](https://github.com/shivakumar-tekumatla/CS549-Assignments/tree/main/stekumatla_hw0)
 
 Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/Alohomora.pdf). 
 

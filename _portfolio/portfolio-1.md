@@ -1,6 +1,8 @@
 ---
 title: "Nonlinear Model Predictive Control for Mobile Robots"
-excerpt: "NMPC  algorithm for collision-free navigation of a mobile robot in unknown and dynamic environments. 1<br/><img src='/images/nmpc.png'>"
+excerpt: "NMPC  algorithm for collision-free navigation of a mobile robot in unknown and dynamic environments."
+
+ 1<br/><img src='../images/nmpc.png'>
 collection: portfolio
 ---
 

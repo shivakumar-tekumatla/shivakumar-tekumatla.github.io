@@ -1,7 +1,8 @@
 ---
 title: "Semantic Segmentation"
-excerpt: "Design of PB lIte for boundary detection
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/Semantic.png?raw=true' width =400  />"
+excerpt: "Iterative closest point implementation for mapping the LIDAR , and  segmentation using neural networks
+\
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/Semantic.png?raw=true' width =500  />"
 collection: portfolio
 ---
 This  project is about the implementation of Semantic segmentation of LIDAR point cloud data.

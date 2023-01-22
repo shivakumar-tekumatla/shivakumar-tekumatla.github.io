@@ -8,7 +8,7 @@ date: 2020-02-01
 location: "Rajapalayam, India"
 ---
 
-I design curriculum for a course named Digital Manufacturing and taught it for two semesters. This course is currently used by [Saint-Gobain India]() to recruit digital manufacturing engineers. T
+I design curriculum for a course named Digital Manufacturing and taught it for two semesters. This course is currently used by [Saint-Gobain India]() to recruit digital manufacturing engineers.
 
 
 Heading 1

@@ -10,6 +10,8 @@ mobile-robot. The disadvantages of a physical constrains for motion planning are
 and non-holonomic robots. NMPC , a variation of MPC, that is used here , does not require any reference trajectory , thus performing computationally well. We compared these two methods for navigation in dynamic environments. We use the performance of these algorithms in complete static or a few dynamic obstacle environment as baseline for testing other cases. We tested the performance of these algorithms using different evaluation parameters. We also presented a clear understanding of usage of various types of adhoc parameters for each of these algorithms. Finally, we simulate our results in RVIZ simulation platform using ROS framework. We see the application of our methods where robot needs to navigate environments such a hospital corridor with humans other robots , social robots such as in airports etc.
 
 # Results 
-<img src="https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/NMPC1.gif" alt="gif" > 
+<!-- <img src="https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/NMPC1.gif" alt="gif" >  -->
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/NMPC1.gif?raw=true' />
+
 
 Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/NMPC.pdf). 

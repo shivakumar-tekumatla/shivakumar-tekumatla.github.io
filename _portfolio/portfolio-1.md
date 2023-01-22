@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Nonlinear Model Predictive Control for Mobile Robots"
+excerpt: "NMPC  algorithm for collision-free navigation of a mobile robot in unknown and dynamic environments. 1<br/><img src='/images/nmpc.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project, we present different methods that are used for navigation of a mobile robot in unknown and
+dynamic environments. We compare various methods for realtime navigation of a mobile robot , and present collision free control using generalized velocity obstacles(VO) and non-linear model predictive control(NMPC). In this work, we also discuss about the usage of various physical constraints of a general
+mobile-robot. The disadvantages of a physical constrains for motion planning are tackled using these methods. Generalised Velocity-Obstacle provides a combined solution for both holonomic
+and non-holonomic robots. NMPC , a variation of MPC, that is used here , does not require any reference trajectory , thus performing computationally well. We compared these two methods for navigation in dynamic environments. We use the performance of these algorithms in complete static or a few dynamic obstacle environment as baseline for testing other cases. We tested the performance of these algorithms using different evaluation parameters. We also presented a clear understanding of usage of various types of adhoc parameters for each of these algorithms. Finally, we simulate our results in RVIZ simulation platform using ROS framework. We see the application of our methods where robot needs to navigate environments such a hospital corridor with humans other robots , social robots such as in airports etc.

@@ -1,6 +1,6 @@
 ---
 title: "Feedback Control of Under-actuated Systems using Time-Varying LQR"
-excerpt: "Designed a control algorithm for under-actuated systems based on time dependant linear quadratic regulator . <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/tvlqr.gif?raw=true' width =200  />"
+excerpt: "Designed a control algorithm for under-actuated systems based on time dependant linear quadratic regulator . <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/tvlqr.gif?raw=true' width =400  />"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Nonlinear Model Predictive Control for Mobile Robots"
-excerpt: "NMPC  algorithm for collision-free navigation of a mobile robot in unknown and dynamic environments."
+excerpt: "NMPC  algorithm for collision-free navigation of a mobile robot in unknown and dynamic environments.<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/NMPC1.gif?raw=true' />"
 collection: portfolio
 ---
 

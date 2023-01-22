@@ -2,7 +2,7 @@
 title: "Alohomora"
 excerpt: "simplified version of Probability of Boundary (pb lite) detection algorithm, and  Convectional Neural Network(CNN) algorithm for Image classification
 \
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/ColorMap_3.png?raw=true' width =500  />"
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/ColorMap_3.png?raw=true' width =600  />"
 
 collection: portfolio
 ---

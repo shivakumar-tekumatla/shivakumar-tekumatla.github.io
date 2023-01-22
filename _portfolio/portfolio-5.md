@@ -1,8 +1,8 @@
 ---
 title: "Motion Planning for Mobile Robots using Sampling based algorithms"
-excerpt: "Navigating Mobile robots using Probabilistic Road Map,RRT and RRT*
+excerpt: "Navigating Mobile robots using various sampling based algorithms such as Probabilistic Road Map,RRT and RRT*
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/random_path.png?raw=true' width =400  />"
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/random_path.png?raw=true' width =500  />"
 collection: portfolio
 ---
 
@@ -10,29 +10,29 @@ Many discrete planning methods have limitations and cannot be scaled easily to h
 
 RRT :
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/RRT_path.png?raw=true' width =400  />
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/RRT_path.png?raw=true' width =600  />
 
 RRT* :
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/RRT_star_path.png?raw=true' width =400  />
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/RRT_star_path.png?raw=true' width =600  />
 
 Bridge Sampling:
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/bridge_path.png?raw=true' width =400  />
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/bridge_path.png?raw=true' width =600  />
 
 Gaussian Sampling:
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/gaussian_path.png?raw=true' width =400  />
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/gaussian_path.png?raw=true' width =600  />
 
 Random Sampling:
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/random_path.png?raw=true' width =400  />
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/random_path.png?raw=true' width =600  />
 
 Uniform Sampling:
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/unifrom_path.png?raw=true' width =400  />
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/unifrom_path.png?raw=true' width =600  />
 
-
+[Git Hub](https://github.com/shivakumar-tekumatla/Standard-Search-Algorithms)
 
 Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/RRT-RRT*.pdf). 
 

@@ -1,6 +1,7 @@
 ---
 title: "Predicting Bearing Fault Type and Depth in Rotary Machines"
-excerpt: "Rotary Equipment Predictive Maintenance
+excerpt: "Predictive Maintenance architecture for Rotary equipment in manufacturing operations using AI and DSP 
+\
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/vibration.gif?raw=true' width =400  />"
 collection: portfolio
 ---

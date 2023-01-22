@@ -27,6 +27,9 @@ Heart Beat Motion:
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/heart_beat.gif?raw=true' width =400  />
 
 
+[Git Hub](https://github.com/shivakumar-tekumatla/Stewart-Platform-Inverse-Kinematics)
+
+Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/stewart.pdf). 
 
 
 

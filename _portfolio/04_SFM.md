@@ -8,6 +8,8 @@ collection: portfolio
 This project discusses the implementation of 3D reconstruction of a scene from multiple 2D image. Two different approaches are considered: First one is the traditional Structure from Motion (SfM) method. Second is an deep learning approach using the Neural Radiance Fields (NeRF). The results
 and observations for each method as been recorded in this document.
 
+[Git Hub](https://github.com/Ajithjaas/RBE549_CV_Projects/tree/main/BuildingsBuiltInMinutes-SfMandNeRF)
+
 Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/sfm.pdf). 
 
 Instructor: [Nitin Sanket](https://nitinjsanket.github.io/)

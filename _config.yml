@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  # name             : "Shiva"
+  name             : "Shiva"
   avatar           : "bio-photo.jpg"
-  # bio              : "Hi, I am a masters in robotics student at WPI"
+  bio              : "Hi, I am a masters in robotics student at WPI"
   location         : "San Francisco Bay Area"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

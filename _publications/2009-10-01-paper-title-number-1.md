@@ -14,3 +14,7 @@ generator without compromising on the performance of the system.
 [Download paper here](https://ieeexplore.ieee.org/document/7951672?anchor=footnotes)
 
 Recommended citation: 'T. Shivakumar, M. S. Sravan and K. Selvajyothi, "Python based 3-Axis CNC plotter," 2016 IEEE International Conference on Power and Energy (PECon), Melaka, Malaysia, 2016, pp. 823-827, doi: 10.1109/PECON.2016.7951672'.
+
+Video :
+
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/CNC.gif?raw=true' width =400  />"

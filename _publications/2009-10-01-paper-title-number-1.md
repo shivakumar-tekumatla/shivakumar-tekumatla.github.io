@@ -2,7 +2,7 @@
 title: "Python based 3-Axis CNC plotter:"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about open source architecture for CNC systems'
 date: 2016-12-01
 venue: 'IEEE'
 paperurl: 'https://ieeexplore.ieee.org/document/7951672?anchor=footnotes'

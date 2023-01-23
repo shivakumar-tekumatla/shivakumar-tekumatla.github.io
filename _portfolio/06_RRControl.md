@@ -1,6 +1,7 @@
 ---
 title: "Control of RR Bot Using LQR, Robust, Adaptive and Sliding-Mode Controllers"
 excerpt: "Design of various controllers for planar RR bot using MATLAB. Tested these algorithms using ROS and Gazebo
+
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/rrbot.png?raw=true' width =400  />"
 collection: portfolio
 ---

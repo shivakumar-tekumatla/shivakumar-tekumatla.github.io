@@ -1,6 +1,7 @@
 ---
 title: "Stewart Platform for Surgical Training Kits and Passive Physiotherapy"
 excerpt: "The project demonstrates the fabrication practices and integration approach to assemble the platform and replicate internal involuntary ​​body movements associated with breathing, heart movement, and peristalsis.
+
 <img src='https://github.com/shivakumar-tekumatla/Stewart-Platform-Inverse-Kinematics/blob/main/video%20gifs/XYZ%20motion.gif?raw=true' width =400  />
 "
 collection: portfolio

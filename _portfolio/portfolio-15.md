@@ -1,6 +1,6 @@
 ---
 title: "Android Based Remote Motion Controller Using Visual Feedback"
-excerpt: " Built a wall climbing robot to test the visual feedback based controller. 
+excerpt: " Built a wall climbing robot to test the android based visual feedback  controller. 
 \
 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/wall_climbing.gif?raw=true' width =400  />"

@@ -15,7 +15,7 @@ I am currently engaged in the role of Robotics Engineer at [Vantage Robotics](ht
 Throughout my career, I have played various roles such as an engineer, manager, and instructor, providing me with a well-rounded perspective on the industry. My expertise in various fields and technologies such as Robotics,Industry 4.0 and AI, have made me a valuable asset to any organization. I am a dedicated professional who is committed to staying abreast of the latest advancements in technology and am always on the lookout for new challenges and opportunities to enhance my professional growth.
 
 # Skills
-![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,matlab,pytorch,ros,raspberrypi,arduino,grafana,liunx,autocad,mysql,mongodb,postgres)
+![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,matlab,pytorch,ros,raspberrypi,arduino,grafana,linux,autocad,mysql,mongodb,postgres)
 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/mssql.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/influxdb.webp?raw=true' width='50'/>
@@ -25,14 +25,13 @@ Throughout my career, I have played various roles such as an engineer, manager, 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/kafka.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/amqp.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/ignition.png?raw=true' width='50'/>
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/linux.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/autocad.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/catia.webp?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/inventor.webp?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/ethernetip.png?raw=true' width='50'/>
-
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/i2c.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/uart.png?raw=true' width='50'/>
+
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/spi.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/modbus.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/opc.png?raw=true' width='50'/>

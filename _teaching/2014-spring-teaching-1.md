@@ -10,7 +10,7 @@ location: "Rajapalayam, India"
 
 I devised and executed a comprehensive curriculum for the subject of "Digital Manufacturing" which I instructed for two semesters. The curriculum has been adopted by [Saint-Gobain India](https://www.saint-gobain.co.in/) as a benchmark for recruiting digital manufacturing engineers.
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PACR3.jpg?raw=true' width =400  />
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PACR3.png?raw=true' width =400  />
 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PACR1.jpg?raw=true' width =400  />
 

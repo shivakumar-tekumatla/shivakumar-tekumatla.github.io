@@ -19,9 +19,5 @@ Throughout my career, I have played various roles such as an engineer, manager, 
 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/px4.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/MQTT.png?raw=true' width='50'/>
-<!-- <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master//images/gazebo.png?raw=true' width='50'/>" -->
-<!-- 
-<img src = "https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/px4.png"width="23" height="23">
-<img src="https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/mqtt.png" width="20" height="20">
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/gazebo.svg?raw=true' width='50'/>
 
-<!-- <img src="https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/gazebo.svg" width="20" height="20"> --> -->

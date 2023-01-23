@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   # name             : "Shiva"
-  # avatar           : "bio-photo.jpg"
+  avatar           : "profile.png"
   # bio              : "Hi, I am a masters in robotics student at WPI"
   location         : "San Francisco Bay Area"
   employer         :

@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shiva"
-  avatar           : "images/profile.png"
+  # name             : "Shiva"
+  avatar           : profile.png
   # bio              : "Your biography for the left-hand sidebar"
   location         : "San Francisco Bay Area"
   employer         :

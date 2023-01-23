@@ -25,5 +25,12 @@ Throughout my career, I have played various roles such as an engineer, manager, 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/MQTT.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/kafka.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/amqp.png?raw=true' width='50'/>
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/grafana.png?raw=true' width='50'/>
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/ignition.png?raw=true' width='50'/>
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/linux.png?raw=true' width='50'/>
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/autocad.png?raw=true' width='50'/>
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/catia.png?raw=true' width='50'/>
+
+
 
 

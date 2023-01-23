@@ -39,5 +39,5 @@ Throughout my career, I have played various roles such as an engineer, manager, 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/modbus.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/opc.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/tcp.png?raw=true' width='50'/>
-
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/canbus.jpeg?raw=true' width='50'/>
 

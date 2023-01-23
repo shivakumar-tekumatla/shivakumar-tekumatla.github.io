@@ -15,8 +15,9 @@ I am currently engaged in the role of Robotics Engineer at [Vantage Robotics](ht
 Throughout my career, I have played various roles such as an engineer, manager, and instructor, providing me with a well-rounded perspective on the industry. My expertise in various fields and technologies such as Robotics,Industry 4.0 and AI, have made me a valuable asset to any organization. I am a dedicated professional who is committed to staying abreast of the latest advancements in technology and am always on the lookout for new challenges and opportunities to enhance my professional growth.
 
 # Skills
-![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,github,matlab,ros,raspberrypi,arduino,mysql,mongodb,mssql)
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/influxdb.png?raw=true' width='50'/>
+![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,github,matlab,ros,raspberrypi,arduino,mysql,mongodb)
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/mssql.png?raw=true' width='50'/>
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/influxdb.webp?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/postgres.png?raw=true' width='50'/>
 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/gazebo.svg?raw=true' width='50'/>

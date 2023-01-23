@@ -10,7 +10,7 @@ In this project, implementation of a remote motion controller with visual feedba
 
 Results:
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/wall_climbing.gif?raw=true' width =400  />"
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/wall_climbing.gif?raw=true' width =400  />
 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/wall_climbing2.gif?raw=true' width =400  />
 

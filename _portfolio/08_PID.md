@@ -14,11 +14,11 @@ If you wish to view only specific plots , please select or unselect the legends(
 
 Results:
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PID1.png?raw=true' width =400  />"
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PID1.png?raw=true' width =400  />
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PID2.png?raw=true' width =400  />"
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PID2.png?raw=true' width =400  />
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PID3.png?raw=true' width =400  />"
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PID3.png?raw=true' width =400  />
 
 
 [Git Hub](https://github.com/shivakumar-tekumatla/PID-with-Closed-loop-and-Unit-Step)

@@ -17,4 +17,4 @@ Recommended citation: 'T. Shivakumar, M. S. Sravan and K. Selvajyothi, "Python b
 
 Video :
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/CNC.gif?raw=true' width =400  />"
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/CNC.gif?raw=true' width =400  />

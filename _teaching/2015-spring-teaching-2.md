@@ -8,7 +8,7 @@ date: 2015-08-1
 location: "Chennai, India"
 ---
 
-I was the head of robotics club for two semesters at my undergrad alma-mater. Twice a month , I conducted knowledge transfer sessions to my peers about robotics, embedded devices, sensors and robot autonomy. As part of this role, I also organized inter-intra college technical fests that attracted hundreds of participants. 
+As the former Head of the Robotics Club at my undergraduate alma mater, I possessed a strong leadership role in which I successfully managed and coordinated the club's activities for two semesters. On a bi-monthly basis, I conducted informative knowledge transfer sessions on the topics of robotics, embedded devices, sensors, and robot autonomy to my peers. Additionally, I played a vital role in organizing and executing inter-intra college technical fests that attracted a significant number of participants, showcasing my ability to effectively plan and execute events on a large scale.
 
 Heading 1
 ======

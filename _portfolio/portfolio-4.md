@@ -31,6 +31,7 @@ Heart Beat Motion:
 
 Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/stewart.pdf). 
 
+Instructor: [Loris Fichera](https://comet-lab.github.io/team/loris-fichera) 
 
 
 

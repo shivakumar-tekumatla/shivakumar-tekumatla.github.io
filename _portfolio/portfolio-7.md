@@ -12,3 +12,4 @@ In this project, camera calibration is done using a flexible technique from Micr
 
 Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/AutoCalib.pdf). 
 
+Instructor: [Nitin Sanket](https://nitinjsanket.github.io/)

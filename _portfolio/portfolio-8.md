@@ -10,3 +10,4 @@ Since a lot of self-driving cars rely mostly rely on the LIDAR point clouds, it 
 
 Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/Semantic.pdf). 
 
+Instructor: [Nitin Sanket](https://nitinjsanket.github.io/)

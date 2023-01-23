@@ -21,3 +21,5 @@ With Boundary:
 [Git Hub](https://github.com/shivakumar-tekumatla/NMPC-and-VO-for-Mobile-Robot) 
 
 Report for this project can be [downloaded from here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/NMPC.pdf). 
+
+Instructor: [Jane Li](http://labs.wpi.edu/hiro/zhi-jane-li/)

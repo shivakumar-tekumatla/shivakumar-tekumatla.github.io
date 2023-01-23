@@ -13,3 +13,5 @@ This project discusses the usage of time-varying linear quadratic regulator for 
 [Git Hub](https://github.com/shivakumar-tekumatla/TVLQR-Segway)
 
 Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/TVLQR.pdf). 
+
+Instructor: [Siavash Farzan](https://sfarzan.com/)

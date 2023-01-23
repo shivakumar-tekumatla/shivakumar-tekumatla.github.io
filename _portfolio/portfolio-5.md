@@ -36,3 +36,4 @@ Uniform Sampling:
 
 Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/RRT-RRT*.pdf). 
 
+Instructor: [Jane Li](http://labs.wpi.edu/hiro/zhi-jane-li/)

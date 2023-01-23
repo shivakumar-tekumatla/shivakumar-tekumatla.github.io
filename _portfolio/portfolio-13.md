@@ -17,3 +17,4 @@ Results:
 
 Report for this project can be [downloaded here](https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/AIPrediction.pdf). 
 
+Instructor: [Dmitry Korkin](http://korkinlab.org/) 

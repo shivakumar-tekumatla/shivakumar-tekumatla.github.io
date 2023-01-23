@@ -13,7 +13,7 @@ I am a  maters student in Robotics Engineering at [Worcester Polytechnic Institu
 # Skills
 ![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,github,matlab,ros,raspberrypi,arduino,mysql,mongodb)
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master//images/px4.png?raw=true'/>"
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master//images/px4.png?raw=true' width='23'/>"
 
 <!-- 
 <img src = "https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/px4.png"width="23" height="23">

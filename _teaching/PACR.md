@@ -2,7 +2,8 @@
 title: "Visiting Lecturer"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+# permalink: /teaching/  2014-spring-teaching-1
+permalink: /teaching/PACR.md
 venue: "PACR Polytechnic College"
 date: 2020-02-01
 location: "Rajapalayam, India"

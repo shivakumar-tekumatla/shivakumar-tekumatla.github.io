@@ -13,7 +13,7 @@ main:
   #   url: /talks/     
     
   - title: "Research"
-    url: /year-archive/
+    url: /research/
     
   - title: "CV"
     url: /cv/

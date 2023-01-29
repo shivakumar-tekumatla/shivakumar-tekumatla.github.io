@@ -5,7 +5,7 @@ type: "Directed Research"
 # permalink: /teaching/  2014-spring-teaching-1
 permalink: /research/wpi
 venue: "Worcester Polytechnic Institute"
-date: 2021-09-15 to Now 
+date: 2021-09-15 
 location: "Worcester,MA"
 ---
 

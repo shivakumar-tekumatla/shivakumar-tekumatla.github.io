@@ -2,7 +2,6 @@
 title: "Robotics Club Secretary"
 collection: teaching
 type: "Student Activities Club"
-# permalink: /teaching/2015-spring-teaching-2
 permalink: /teaching/robot_club 
 venue: "Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram"
 date: 2015-08-1 

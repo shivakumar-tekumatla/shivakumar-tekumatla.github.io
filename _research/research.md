@@ -2,7 +2,7 @@
 title: "Graduate Research Assistant"
 collection: research
 type: "Directed Research"
-permalink: /research/wpi
+permalink: /research/research
 venue: "Worcester Polytechnic Institute"
 date: 2021-09-15 
 location: "Worcester,MA"

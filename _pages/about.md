@@ -23,16 +23,15 @@ Throughout my career, I have played various roles such as an engineer, manager, 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/px4.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/numpy.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/scipy.png?raw=true' width='50'/>
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/scikit.png?raw=true' width='50'/>
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/pandas.png?raw=true' width='70'/>
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/scikit.png?raw=true' width='75'/>
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/pandas.png?raw=true' width='75'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/MQTT.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/kafka.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/amqp.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/ignition.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/catia.webp?raw=true' width='50'/>
+
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/inventor.webp?raw=true' width='50'/>
-
-
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/ethernetip.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/i2c.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/uart.png?raw=true' width='50'/>

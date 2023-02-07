@@ -17,7 +17,7 @@ WPI
 * [RBE 501 - Robot Dynamics](http://aimlab.wpi.edu/education/ME501-RBE501_F_2019)
 * [RBE 530 - Soft Robotics](https://www.wpi.edu/news/media/expertise/soft-robotics)
 
-IITDM 
+IIITDM-Kancheepuram 
 ======
 * Robotics and Automation 
 * Programming Embedded Devices - Micro Processors and Controllers

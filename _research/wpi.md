@@ -8,5 +8,5 @@ date: 2021-09-15
 location: "Worcester,MA"
 ---
 
-I devised and executed a comprehensive curriculum for the subject of "Digital 
+Working on Learning Based Controllers under supervision of Prof.[Siavash Farzan](https://sfarzan.com/) 
 

@@ -39,6 +39,6 @@ Throughout my career, I have played various roles such as an engineer, manager, 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/numpy.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/scipy.png?raw=true' width='50'/>
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/scikit.png?raw=true' width='50'/>
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/pandas.png?raw=true' width='50'/>
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/imgs/pandas.png?raw=true' width='70'/>
 
 [Projects](https://shivakumar-tekumatla.github.io/portfolio/)            [Publications](https://shivakumar-tekumatla.github.io/publications/)

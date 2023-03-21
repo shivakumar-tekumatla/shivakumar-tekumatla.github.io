@@ -9,6 +9,6 @@ date: 2022-01-15
 location: "Worcester,USA"
 ---
 
-I worked as teaching assistant/grader for graduate level robot control course at [WPI](https://www.wpi.edu). This course is about developing and deploying modern controls for robot manipulators and under-actuated robots.
+I worked as teaching assistant/grader for graduate level robot control course at [WPI](https://www.wpi.edu). This course is about developing and deploying modern control techniques for robot manipulators and under-actuated robots.
 
 

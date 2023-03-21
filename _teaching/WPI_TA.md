@@ -9,11 +9,6 @@ date: 2022-01-15
 location: "Worcester,USA"
 ---
 
-I devised and executed a comprehensive curriculum for the subject of "Digital Manufacturing" which I instructed for two semesters. The curriculum has been adopted by [Saint-Gobain India](https://www.saint-gobain.co.in/) as a benchmark for recruiting digital manufacturing engineers.
+I worked as teaching assistant/grader for graduate level robot control course at [WPI](https://www.wpi.edu). This course is about developing and deploying modern controls for robot manipulators and under-actuated robots.
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PACR3.png?raw=true' width =400  />
-
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PACR1.jpg?raw=true' width =400  />
-
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/PACR2.jpg?raw=true' width =400  />
 

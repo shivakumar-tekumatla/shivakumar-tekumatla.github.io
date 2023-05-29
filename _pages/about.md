@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/robotics.jpeg?raw=true' width =600  />"
+<img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/robotics.jpeg?raw=true' width =900  />
 
 As a Robotics Engineer with significant achievements, I am currently in the midst of completing my Master's degree in Robotics Engineering at [Worcester Polytechnic Institute](https://www.wpi.edu/), where I am honing my skills in the intricacies of controls,planning,perception and learning. Additionally, I hold a B.Tech degree in Mechanical Engineering, Design, and Manufacturing from [Indian Institute of Information Technology, Design and Manufacturing](https://iiitdm.ac.in), where I gained a solid foundation in the field of engineering.
 

@@ -15,7 +15,7 @@ I am currently working as an Advanced Robotics Software Engineer at [Honeywell](
 
 Throughout my career, I have played various roles such as an engineer, manager, and an instructor, providing me with a well-rounded perspective on the industry. My expertise in various fields and technologies such as Robotics,Industry 4.0 and AI, have made me a valuable asset to any organization. I am a dedicated professional who is committed to staying abreast of the latest advancements in technology and am always on the lookout for new challenges and opportunities to enhance my professional growth.
 
-I have professional experience on the following technologies/tools, and if you think you need my contributions on any of your amzing projects with the following requirements, you can reach out to me. 
+I have professional experience on the following technologies/tools, and if you think you need my contributions to any of your amzing projects with the following requirements, you can reach out to me. 
 
 # Skills
 ![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,matlab,pytorch,ros,raspberrypi,arduino,grafana,linux,autocad,mysql,mongodb,postgres)

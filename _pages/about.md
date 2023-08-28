@@ -20,7 +20,7 @@ Over the course of my career, I have worn multiple hats, transitioning between r
 
 A passionate dedication to staying at the forefront of technological advancements defines my professional ethics. I embrace new challenges and opportunities to continually foster my growth in the field.
 
-I possess professional prowess in an array of cutting-edge technologies and tools. If your projects align with my skillset and expertise, I invite you to connect with me to explore potential collaborations.
+I possess professional expertise in an array of cutting-edge technologies and tools. If your projects align with my skillset and expertise, I invite you to connect with me to explore potential collaborations.
 
 # Skills
 ![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,matlab,pytorch,ros,raspberrypi,arduino,grafana,linux,autocad,mysql,mongodb,postgres)

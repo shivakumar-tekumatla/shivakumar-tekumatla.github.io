@@ -2,7 +2,7 @@
 title: "Learning-Based Design of Off-Policy Gaussian Controllers: Integrating Model Predictive Control and Gaussian Process Regression"
 collection: publications
 permalink: /publication/OP_GPC
-excerpt: ''
+excerpt: 'This paper is about off policy gaussian predictive controller'
 date: 
 venue: 'American Control Conference 2024'
 paperurl: ''

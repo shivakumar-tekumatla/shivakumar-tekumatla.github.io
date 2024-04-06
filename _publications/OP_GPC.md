@@ -12,11 +12,11 @@ This paper presents an off-policy Gaussian Predictive Control (GPC) framework ai
 
 Link to the paper - https://arxiv.org/abs/2403.10932 
 
-Recommended Citation : '@misc{tekumatla2024learningbased,
+<!-- Recommended Citation : '@misc{tekumatla2024learningbased,
       title={Learning-Based Design of Off-Policy Gaussian Controllers: Integrating Model Predictive Control and Gaussian Process Regression}, 
       author={Shiva Kumar Tekumatla and Varun Gampa and Siavash Farzan},
       year={2024},
       eprint={2403.10932},
       archivePrefix={arXiv},
       primaryClass={cs.RO}
-}'
+}' -->

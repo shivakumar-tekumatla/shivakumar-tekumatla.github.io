@@ -8,21 +8,15 @@ venue: 'IEEE'
 paperurl: 'https://ieeexplore.ieee.org/document/7951672?anchor=footnotes'
 citation: 'T. Shivakumar, M. S. Sravan and K. Selvajyothi, "Python based 3-Axis CNC plotter," 2016 IEEE International Conference on Power and Energy (PECon), Melaka, Malaysia, 2016, pp. 823-827, doi: 10.1109/PECON.2016.7951672.'
 ---
-This paper presents an off-policy Gaussian Predictive Control (GPC) framework aimed at solving optimal control problems with a smaller computational footprint, thereby facilitating real-time applicability while ensuring critical safety considerations. The proposed controller imitates classical control methodologies by modeling the optimization process through a Gaussian process and employs Gaussian Process Regression to learn from the Model Predictive Control (MPC) algorithm.
-Notably, the Gaussian Process setup does not incorporate a built-in model, enhancing its applicability to a broad range of control problems. We applied this framework experimentally to a differential drive mobile robot, tasking it with trajectory tracking and obstacle avoidance. Leveraging the off-policy aspect, the controller demonstrated adaptability to diverse trajectories and obstacle behaviors. Simulation experiments confirmed the effectiveness of the proposed GPC method,
-emphasizing its ability to learn the dynamics of optimal control strategies. Consequently, our findings highlight the significant potential of off-policy Gaussian Predictive Control in achieving real-time optimal control for handling of robotic systems in safety-critical scenarios.
+T. Shivakumar, M. S. Sravan and K. Selvajyothi, "Python based 3-Axis CNC plotter," 2016 IEEE International Conference on Power and Energy (PECon), Melaka, Malaysia, 2016, pp. 823-827, doi: 10.1109/PECON.2016.7951672. https://ieeexplore.ieee.org/document/7951672?anchor=footnotes
 
-[Download paper here](https://arxiv.org/pdf/2403.10932.pdf)
+This paper discusses on an open source python based three-axis CNC system. Python being one of the easiest languages to understand exempts the user from requiring extreme programming skills to amend the code for personal use. This paper features a novel way of directly importing the CAD file into the system without the use of any G-code parser. This system is economical as it utilizes Arduino UNO board as a signal generator without compromising on the performance of the system.
 
-Recommended citation: '@misc{tekumatla2024learningbased,
-      title={Learning-Based Design of Off-Policy Gaussian Controllers: Integrating Model Predictive Control and Gaussian Process Regression}, 
-      author={Shiva Kumar Tekumatla and Varun Gampa and Siavash Farzan},
-      year={2024},
-      eprint={2403.10932},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
-}'.
 
-Architecture :
+[Download paper here](https://ieeexplore.ieee.org/document/7951672?anchor=footnotes)
+
+Recommended citation: 'T. Shivakumar, M. S. Sravan and K. Selvajyothi, “Python based 3-Axis CNC plotter,” 2016 IEEE International Conference on Power and Energy (PECon), Melaka, Malaysia, 2016, pp. 823-827, doi: 10.1109/PECON.2016.7951672'.
+
+Video :
 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/files/GIFs/CNC.gif?raw=true' width =400  />

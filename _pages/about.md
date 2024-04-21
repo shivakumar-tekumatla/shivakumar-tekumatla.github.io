@@ -10,18 +10,6 @@ redirect_from:
 
 <img src='https://github.com/shivakumar-tekumatla/shivakumar-tekumatla.github.io/blob/master/images/robotics.jpeg?raw=true' width =900  />
 
-I am a seasoned Robotics Engineer with a comprehensive expertise encompassing Drones, Mobile Robots, and Manipulators. Holding a Masters degree in Robotics from [Worcester Polytechnic Institute](https://www.wpi.edu/), my academic journey delved deeply into controls, planning, perception, and learning within the realm of robotics. My educational foundation also includes a B.Tech degree in Mechanical Engineering from [Indian Institute of Information Technology, Design and Manufacturing](https://iiitdm.ac.in).
-
-Presently, I am working as an Advanced Robotics Software Engineer at [Honeywell](https://Honeywell.com), contributing to cutting-edge advancements in the field. My recent role as a Robotics Engineer intern at [Vantage Robotics](https://vantagerobotics.com/) involved spearheading the implementation of autonomous flight capabilities for their innovative drone technology. 
-
-My professional journey encompasses a four-year tenure at [Saint-Gobain India](https://www.saint-gobain.co.in/), where I immersed myself in warehouse automation and the Industrial Internet of Things (IIoT). My achievements there span a range of impactful smart manufacturing systems, including but not limited to Digital Twin, Forklift Localization, AI-powered Predictive Maintenance, OEE optimization, Warehouse Management, and an Industrial Energy Management Data Analytics Platform - all seamlessly integrating Industry 4.0 technologies.
-
-Over the course of my career, I have worn multiple hats, transitioning between roles such as an engineer, manager, and instructor. This diverse experience has endowed me with a well-rounded perspective on the industry. My proficiency in Robotics, Industry 4.0, and AI technologies positions me as a valuable asset to any forward-looking organization.
-
-A passionate dedication to staying at the forefront of technological advancements defines my professional ethics. I embrace new challenges and opportunities to continually foster my growth in the field.
-
-I possess professional expertise in an array of cutting-edge technologies and tools. If your projects align with my skillset and expertise, I invite you to connect with me to explore potential collaborations.
-
 # Skills
 ![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,matlab,pytorch,ros,raspberrypi,arduino,grafana,linux,autocad,mysql,mongodb,postgres)
 
